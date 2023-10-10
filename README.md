@@ -1,5 +1,7 @@
 # Google-Ignite-Team-2
-Welcome to Google Ignite Team 2's Project!
+Welcome to Google Ignite 2023 Team 2 Flutterbytes' Project!
+
+Note: Full updated version of the code here: https://github.com/0gw0/Google-Ignite-Team-2
 
 # Healthy Fish App
 Our team built an app that aims to encourage good health and well-being (UN Sustainable Development Goal 3). The app encourages you to complete daily challenges and earn seashells. With seashells, you get to upgrade and 'evolve' your fish into a stronger and rarer one! Everyone starts the game with a blue basic fish.
